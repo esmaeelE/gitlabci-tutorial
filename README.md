@@ -49,7 +49,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
     ```bash
     python manage.py migrate
-    python maange.py makemigrations
+    python manage.py makemigrations
     ```
 
 7. Create a superuser for the Django admin panel:
